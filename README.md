@@ -66,7 +66,6 @@ Software Engineer experienced in designing and delivering end-to-end enterprise 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/ETL_&_Data_Warehouse-4B5563?style=flat-square&logo=databricks&logoColor=white" alt="ETL" />
 </p>
 
 **Tools & AI**
