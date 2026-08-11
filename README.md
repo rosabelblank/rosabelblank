@@ -99,16 +99,6 @@ Software Engineer experienced in designing and delivering end-to-end enterprise 
 
 
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rosabelblank&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosabelblank&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-
 <p align="center">
   <i>Open to interesting backend problems and collaboration — reach out anytime.</i>
 </p>
