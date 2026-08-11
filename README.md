@@ -92,8 +92,7 @@ Software Engineer experienced in designing and delivering end-to-end enterprise 
 | **AI Document Summarization** | LLM API integration that summarizes enterprise documents inside existing approval workflows. | Laravel · LLM APIs · SQL Server |
 | **Financial Reporting ETL & Data Warehouse** | ETL pipelines consolidating SQL Server tables into a warehouse powering P&L and budget-vs-forecast dashboards. | SQL Server · Laravel · ETL |
 | **Business P&L Dashboard** | Role-based financial dashboard — business profiles, budget/forecast Excel upload, review comments, and export. | Laravel · Vue 3 · Inertia · Tailwind |
-| **Multi-Tenant White-Label Platform** | Modular digital-product platform serving multiple tenants from one codebase. | Laravel · MySQL · MongoDB |
-| **Payment & Async Processing** | Midtrans payment gateway integration with Redis Queue for high-volume background jobs. | Laravel · Midtrans · Redis |
+| **Multi-Tenant WhiteLabel Platform** | Modular digital-product platform serving multiple tenants from one codebase. | Laravel · MySQL · MongoDB |
 | **Web Portfolio** | Personal portfolio site. [Live demo →](https://rosabelblank.github.io/webportofolio/) | HTML · CSS · JavaScript |
 
 ---
