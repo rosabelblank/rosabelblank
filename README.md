@@ -47,7 +47,6 @@ Software Engineer experienced in designing and delivering end-to-end enterprise 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Redis_Queue-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Midtrans-00AEEF?style=flat-square&logo=stripe&logoColor=white" alt="Midtrans" />
 </p>
 
 **Frontend**
